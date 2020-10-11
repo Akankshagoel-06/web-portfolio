@@ -1,6 +1,6 @@
 // Wait till the DOM is ready.
 $(function () {
-    var roles = ["Artist", "Student", "VITian"];
+    var roles = ["Tech Enthusiast", "Student @VITC","Foodie"];
     var count = 0;
     var $typeSpan = $("#intro .content h2 span").typist({
       text: roles[count]
