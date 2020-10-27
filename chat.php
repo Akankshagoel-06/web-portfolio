@@ -6,7 +6,6 @@ $fields = array(
     "message" => "Message",
     "url" => "URL"
   );
-  // Change here.
   $to = "akanksha060202@gmail.com";
   $message = array();
   foreach ($_POST as $key => $value) {
